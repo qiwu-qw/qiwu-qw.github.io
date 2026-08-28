@@ -107,7 +107,7 @@ h6,
   margin-top: 1.65rem;
   margin-bottom: 0.4rem;
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  font-size: 1.2rem;
+  font-size: 1.04rem;
   font-weight: 600;
   line-height: 1.4;
 }
@@ -115,7 +115,7 @@ h6,
 .post article h4 a,
 .post article h4 a:hover,
 .post article h4 a:focus {
-  color: var(--global-text-color);
+  color: #000 !important;
 }
 
 .post article h4 a:hover,
@@ -135,7 +135,7 @@ h6,
   padding-bottom: 0.45rem;
   border-bottom: 1px solid var(--global-divider-color);
   color: var(--global-theme-color);
-  font-size: 1.35rem;
+  font-size: 1.25rem;
   letter-spacing: 0.055em;
   text-transform: uppercase;
 }
@@ -143,14 +143,17 @@ h6,
 .post article .paper-authors {
   margin-top: 0;
   margin-bottom: 0;
-  color: var(--global-text-color);
-  font-style: normal;
+  color: #000 !important;
+  font-size: 0.95rem;
+  font-style: normal !important;
+  font-weight: 400;
 }
 
 .post article .paper-details,
 .post article .paper-links {
   margin-top: 0;
   margin-bottom: 0;
+  font-size: 0.95rem;
 }
 
 .post article .paper-authors,
@@ -174,7 +177,7 @@ h6,
   margin-left: 1.25rem;
   padding-left: 1rem;
   border-left: 3px solid var(--global-divider-color);
-  font-size: 0.96rem;
+  font-size: 0.9rem;
 }
 
 .paper-abstract summary {
@@ -268,6 +271,6 @@ h6,
   }
 
   .post article h4 {
-    font-size: 1.12rem;
+    font-size: 1rem;
   }
 }
