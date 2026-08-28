@@ -40,5 +40,5 @@ _with Shengmao Cao, Kangkai Wang and Jianwei Xing_
 _with Qinshu Xue_
 
 ### Transit Access and Labor Market Efficiency: Evidence from Mobile Phone Data
-_with Yanyan Liu, Kangkai Wang and Jianhuan Xu_
 
+_with Yanyan Liu, Kangkai Wang and Jianhuan Xu_
