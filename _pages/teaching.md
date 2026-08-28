@@ -1,11 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-# title: Teaching
+title: Teaching
 # description: Current courses taught at Peking University.
 nav: true
 nav_order: 3
 calendar: false
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 ## Current Teaching

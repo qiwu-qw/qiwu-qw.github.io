@@ -57,6 +57,40 @@ h6,
   font-weight: 500;
 }
 
+.profile.float-left {
+  margin-right: 2.75rem;
+}
+
+.profile .more-info {
+  margin-top: 0.9rem;
+  text-align: center;
+}
+
+.profile .more-info p {
+  margin: 0;
+}
+
+.profile .cv-link a {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--global-theme-color);
+  border-radius: 0.2rem;
+  font-family:
+    "Source Sans 3",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.25;
+}
+
+.profile .cv-link a:hover {
+  color: var(--global-bg-color);
+  background-color: var(--global-theme-color);
+  text-decoration: none;
+}
+
 .post article h2 {
   margin-top: 3rem;
   margin-bottom: 1.25rem;
@@ -86,9 +120,101 @@ h6,
   margin-bottom: 1rem;
 }
 
+.post article h2.research-section-title {
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  color: var(--global-theme-color);
+  font-size: 1.35rem;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+}
+
+.post article .paper-authors {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+.post article .paper-details,
+.post article .paper-links {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.paper-abstract {
+  margin-top: 0.75rem;
+  margin-bottom: 1.9rem;
+  padding-left: 0.85rem;
+  border-left: 2px solid var(--global-divider-color);
+  font-size: 0.96rem;
+}
+
+.paper-abstract summary {
+  display: flex;
+  gap: 0.75rem;
+  align-items: baseline;
+  cursor: pointer;
+  list-style: none;
+}
+
+.paper-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-abstract .abstract-preview {
+  display: block;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.paper-abstract[open] .abstract-preview {
+  overflow: visible;
+  white-space: normal;
+}
+
+.paper-abstract .abstract-more,
+.paper-abstract .abstract-less {
+  color: var(--global-theme-color);
+  font-family:
+    "Source Sans 3",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.paper-abstract .abstract-less,
+.paper-abstract[open] .abstract-more {
+  display: none;
+}
+
+.paper-abstract[open] .abstract-less {
+  display: inline;
+}
+
+.paper-abstract .abstract-body {
+  margin-top: 0.65rem;
+  padding-right: 0.5rem;
+}
+
+.paper-abstract .abstract-body p {
+  margin: 0;
+}
+
 @media (max-width: 576px) {
   body {
     font-size: 1rem;
+  }
+
+  .profile.float-left {
+    margin-right: 0;
   }
 
   .post article h2 {

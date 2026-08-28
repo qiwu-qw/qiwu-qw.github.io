@@ -1,10 +1,14 @@
 ---
 layout: page
 permalink: /office-hours/
-# title: Office Hours
+title: Office Hours
 # description: Schedule an appointment with Qi Wu.
 nav: true
 nav_order: 4
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 Office hours are available by appointment.

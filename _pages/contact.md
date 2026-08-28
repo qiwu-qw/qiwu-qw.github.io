@@ -1,10 +1,14 @@
 ---
 layout: page
 permalink: /contact/
-# title: Contact
+title: Contact
 # description: Office, mailing address, and email.
 nav: true
 nav_order: 5
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 ## Office

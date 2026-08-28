@@ -8,6 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true
+  more_info: '<p class="cv-link"><a href="/assets/pdf/QiWu_CV.pdf" download>Download my CV</a></p>'
 
 selected_papers: false
 social: false
@@ -28,5 +29,3 @@ Welcome! I am an Assistant Professor in the Department of Applied Economics at [
 I am interested in examining the role of social networks in product-market competition and its welfare effects, the digital economy and mobile big data.
 
 If you are interested in learning more about my research, please don't hesitate to contact me at [qiwu@gsm.pku.edu.cn](mailto:qiwu@gsm.pku.edu.cn).
-
-Download my [CV]({{ '/assets/pdf/QiWu_CV.pdf' | relative_url }}).
