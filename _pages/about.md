@@ -25,8 +25,8 @@ latest_posts:
 
 I am an Assistant Professor in the Department of Applied Economics at [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). Prior to joining Peking, I received a Ph.D. in Economics from Cornell University. My research focuses on empirical industrial organization and applied microeconomics.
 
-I am interested in examining the role of social networks in product-market competition and its welfare effects, as well as the digital economy and mobile big data.
+I am interested in examining the role of social networks in product-market competition and its welfare effects, the digital economy and mobile big data.
 
 If you are interested in learning more about my research, please don't hesitate to contact me at [qiwu@gsm.pku.edu.cn](mailto:qiwu@gsm.pku.edu.cn).
 
-[Download my CV]({{ '/assets/pdf/QiWu_CV.pdf' | relative_url }})
+Download my [CV]({{ '/assets/pdf/QiWu_CV.pdf' | relative_url }})
