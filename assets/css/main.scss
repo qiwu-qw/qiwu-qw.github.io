@@ -112,6 +112,17 @@ h6,
   line-height: 1.4;
 }
 
+.post article h4 a,
+.post article h4 a:hover,
+.post article h4 a:focus {
+  color: var(--global-text-color);
+}
+
+.post article h4 a:hover,
+.post article h4 a:focus {
+  text-decoration: underline;
+}
+
 .post article h4 + p {
   margin-top: 0.35rem;
 }
@@ -132,8 +143,8 @@ h6,
 .post article .paper-authors {
   margin-top: 0;
   margin-bottom: 0;
-  color: var(--global-text-color-light);
-  font-style: italic;
+  color: var(--global-text-color);
+  font-style: normal;
 }
 
 .post article .paper-details,

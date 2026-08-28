@@ -33,7 +33,7 @@ _styles: |
   </summary>
   <div class="abstract-body">
     <p class="abstract-label"><strong>Abstract:</strong></p>
-    <p>We study how different communication technologies shape the labor-market consequences of social networks. We develop a framework in which communication methods vary in how effectively existing social ties support workplace mobility. Using cellphone geolocation and sociodemographic data covering 3.3 million workers in Beijing, we measure the relative importance of face-to-face contact and examine job transitions within friendship networks. A greater face-to-face communication share predicts a higher likelihood of following a friend to a workplace, but only after that friend has joined the destination. The results show that the labor-market value of a social connection depends not just on who workers know, but also on how they communicate.</p>
+    <p>We study how different communication technologies shape the labor-market consequences of social networks. We develop a simple framework in which communication technologies differ in the effectiveness with which pre-existing social ties facilitate workplace mobility. Using cellphone geolocation and sociodemographic data on 3.3 million workers in Beijing, we construct a measure of the relative importance of face-to-face interaction and exploit workplace transitions within friendship networks. Conditional on friendship and pre-existing relationship strength, a higher face-to-face communication share is associated with a significantly greater likelihood of workplace following. This relationship emerges only after the friend has already joined the destination workplace, implying that differences in communication patterns become economically relevant only when the social tie is in a position to influence workplace mobility. Our findings show that worker mobility depends not only on who workers know, but also on how they communicate, implying that communication technologies are imperfect substitutes in shaping the labor-market value of social networks.</p>
   </div>
 </details>
 
@@ -59,13 +59,13 @@ _styles: |
 
 <details class="paper-abstract">
   <summary>
-    <span class="abstract-preview"><strong>Abstract:</strong> Online disputes are pervasive on social media, yet their effects on user welfare remain largely unexplored.</span>
+    <span class="abstract-preview"><strong>Abstract:</strong> Online disputes are pervasive on social media, yet their consequences remain unexplored. </span>
     <span class="abstract-more">Read more</span>
     <span class="abstract-less">Read less</span>
   </summary>
   <div class="abstract-body">
     <p class="abstract-label"><strong>Abstract:</strong></p>
-    <p>Online disputes are pervasive on social media, yet their effects on user welfare remain largely unexplored. Using 8.9 million Weibo posts from 30,516 users, we study fan-group disputes with a stacked difference-in-differences design based on plausibly exogenous dispute shocks. Disputes increase toxic expression and late-night posting, with particularly strong effects among younger users, women, and opinion leaders. The evidence is consistent with identity reinforcement: users direct more toxicity toward out-groups while increasing consumption-related support for the focal celebrity. The effects also spill across topics and persist over time, extending beyond the dispute that triggered them.</p>
+    <p>Online disputes are pervasive on social media, yet their consequences remain unexplored. We study disputes on Weibo, a leading social media platform in China, using 8.9 million posts from 30,516 users affiliated with public figures involved in disputes. Exploiting plausibly exogenous shocks in a stacked difference-in-differences design, we show that disputes sharply increase toxic expression and late-night posting, with larger effects among younger users, women, and opinion leaders. Disputes also increase out-group toxicity and consumption-related support for public figures. These effect spill over across topics and persist over time, extending beyond the original conflict to the broader online discourse environment.</p>
   </div>
 </details>
 
