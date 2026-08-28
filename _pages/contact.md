@@ -1,23 +1,24 @@
 ---
 layout: page
 permalink: /contact/
-title: contact
-description: Contact information and academic profiles.
+title: Contact
+description: Office, mailing address, and email.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
-## Get in touch
+## Office
 
-I welcome conversations about research, teaching, seminars, and potential collaborations.
+GSM New Building 350
 
-- **Email:** [you@university.edu](mailto:you@university.edu)
-- **Office:** Your building and office number
-- **Department:** Your department, Your university
-- **Location:** Your city, country
+## Mailing Address
 
-## Academic profiles
+Department of Applied Economics<br>
+[Guanghua School of Management](https://en.gsm.pku.edu.cn/)<br>
+[Peking University](https://english.pku.edu.cn/)<br>
+No. 5 Yiheyuan Road, Haidian District<br>
+Beijing, China 100871
 
-Add links to your [Google Scholar](https://scholar.google.com/), [ORCID](https://orcid.org/), [GitHub](https://github.com/), and [LinkedIn](https://www.linkedin.com/) profiles as appropriate.
+## Email
 
-> **To personalize:** update this page and `_data/socials.yml` with the same contact details so that the page and navigation icons remain consistent.
+[qiwu@gsm.pku.edu.cn](mailto:qiwu@gsm.pku.edu.cn)

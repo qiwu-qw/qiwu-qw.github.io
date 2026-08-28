@@ -1,34 +1,44 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Research interests, current projects, and scholarly approach.
+title: Research
+description: Publications and works in progress.
 nav: true
 nav_order: 2
 ---
 
-## Research interests
+## Publications
 
-My research brings together theory, data, and field evidence to understand decision-making in complex environments.
+### [Information, Mobile Communication, and Referral Effects](https://www.nber.org/papers/w25873)
 
-- **Primary research area.** Describe the central questions you investigate and why they matter to your field.
-- **Secondary research area.** Explain a complementary research stream, method, or institutional setting.
-- **Applied research area.** Highlight how your work connects academic insight to organizations, policy, or society.
+_with Panle Jia Barwick, Yanyan Liu, and Eleonora Patacchini_
 
-## Current projects
+**American Economic Review**, May 2023. [PDF](https://www.dropbox.com/s/p5suq0zg9mz8hpc/BLPW_AER23_Information%2C%20Mobile%20Communication%2C%20and%20Referral%20Effects.pdf?dl=0) · [Online Appendix](https://www.dropbox.com/s/i4s9x68v8l7ix4q/BLPW_Online%20Appendix.pdf?dl=0)
 
-### Working paper title
+## Working Papers
 
-_With Coauthor Name · Under review_
+### Face-to-Face Meetings, Worker Mobility and Referrals
 
-Add a short, accessible summary of the research question, approach, and main contribution. You can link to a manuscript, abstract, presentation, data appendix, or code repository when available.
+_with Eleonora Patacchini_
 
-### Research project title
+### Beyond the Target: U.S. Sanctions, Inventor Mobility, and the Unintended Knowledge Diffusion
 
-_Solo-authored · Work in progress_
+_with Di Lu, Yanzhe Wang and Mingzhi Xu_
 
-Use two or three sentences to explain the motivation and promise of this project without requiring specialist knowledge.
+### Social Media Disputes, Toxicity and Spillovers
 
-## Methods and settings
+_with Juanjuan Meng, Yue Wang and Liufang Xu_
 
-Briefly describe the empirical methods, theoretical approaches, datasets, experiments, field settings, or institutional contexts that characterize your work.
+## Works in Progress
+
+### Market Integration, Local Protectionism and Product Variety: Evidence from Tobacco Tax Reforms in China​
+
+_with Shengmao Cao, Kangkai Wang and Jianwei Xing_
+
+### Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market
+
+_with Qinshu Xue_
+
+### Transit Access and Labor Market Efficiency: Evidence from Mobile Phone Data
+_with Yanyan Liu, Kangkai Wang and Jianhuan Xu_
+

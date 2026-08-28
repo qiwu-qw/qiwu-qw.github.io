@@ -1,22 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 nav: true
 nav_order: 1
-subtitle: Your academic title · Your department · Your university
-
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
-    <p>Your Department</p>
-    <p>Your University</p>
-    <p>Your City, Country</p>
 
 selected_papers: false
-social: true # includes social icons at the bottom of the page
+social: false
 
 announcements:
   enabled: false
@@ -29,10 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am **Qi Wu**, an academic researcher and teacher at **Your University**.
+I am an Assistant Professor in the Department of Applied Economics at [Guanghua School of Management](https://en.gsm.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). Prior to joining Peking, I received a Ph.D. in Economics from Cornell University. My research focuses on empirical industrial organization and applied microeconomics.
 
-My work examines how people and organizations make decisions, with an emphasis on questions that matter for business and society. I combine theory, empirical analysis, and field evidence to develop research that is both rigorous and relevant.
+I am interested in examining the role of social networks in product-market competition and its welfare effects, as well as the digital economy and mobile big data.
 
-Use this page for a concise introduction: your current position, academic background, and the broad motivation behind your work. More detail belongs on the **Research** and **Teaching** pages.
+If you are interested in learning more about my research, please don't hesitate to contact me at [qiwu@gsm.pku.edu.cn](mailto:qiwu@gsm.pku.edu.cn).
 
-> **To personalize:** replace the sample biography above, then replace `assets/img/prof_pic.jpg` with your own photograph using the same filename.
+[Download my CV]({{ '/assets/pdf/QiWu_CV.pdf' | relative_url }})

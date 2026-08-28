@@ -1,23 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Teaching philosophy, current courses, and past instruction.
+title: Teaching
+description: Current courses taught at Peking University.
 nav: true
 nav_order: 3
 calendar: false
 ---
 
-## Teaching philosophy
+## Current Teaching
 
-Describe how you help students connect analytical frameworks with practical decisions. You might mention classroom discussion, experiential exercises, case-based learning, data analysis, or mentoring.
+- **Advanced Econometrics II** (5 lectures, Ph.D. level) — Spring 2022–present
 
-## Courses
+- **Advanced Microeconomics I** (Ph.D. level) — Fall 2021–present
 
-The course cards below are generated from files in `_teachings/`. Duplicate the template course file whenever you add a new class.
+- **Topics in Applied Microeconomics** (2 lectures, Ph.D. level) — Fall 2022, Fall 2024, Fall 2026
 
-{% include courses.liquid %}
+- **Economics Seminar** (undergraduate) — Fall 2024, Fall 2025
 
-## Student resources
-
-Add office-hour information, frequently used course links, or a short note about supervision and student research opportunities.
+- **Topics in Industrial Economics** (Ph.D. level) — Spring 2026
