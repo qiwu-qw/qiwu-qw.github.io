@@ -1,0 +1,102 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{site.max_width | default: "930px"}}
+);
+
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* Personal typography and spacing overrides. */
+body {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.04rem;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar,
+.navbar-brand,
+.post-title,
+.post-description {
+  font-family:
+    "Source Sans 3",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.navbar {
+  font-size: 1rem;
+}
+
+.navbar-brand {
+  font-weight: 500;
+}
+
+.post article h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.post article h2:first-child {
+  margin-top: 1.5rem;
+}
+
+.post article h4 {
+  margin-top: 1.65rem;
+  margin-bottom: 0.4rem;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.post article h4 + p {
+  margin-top: 0.35rem;
+}
+
+.post article p {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 576px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .post article h2 {
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+  }
+
+  .post article h4 {
+    font-size: 1.12rem;
+  }
+}

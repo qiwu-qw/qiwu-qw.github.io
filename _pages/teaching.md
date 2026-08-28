@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Current courses taught at Peking University.
+# title: Teaching
+# description: Current courses taught at Peking University.
 nav: true
 nav_order: 3
 calendar: false
@@ -16,6 +16,6 @@ calendar: false
 
 - **Topics in Applied Microeconomics** (2 lectures, Ph.D. level) — Fall 2022, Fall 2024, Fall 2026
 
-- **Economics Seminar** (undergraduate) — Fall 2024, Fall 2025
-
 - **Topics in Industrial Economics** (Ph.D. level) — Spring 2026
+
+- **Economics Seminar** (undergraduate) — Fall 2024, Fall 2025
