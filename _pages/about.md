@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true
-  more_info: '<p class="cv-link"><a href="/assets/pdf/QiWu_CV.pdf" download>Download my CV</a></p>'
+  more_info: '<p class="cv-link">Download my <a href="/assets/pdf/QiWu_CV.pdf" download>CV</a>.</p>'
 
 selected_papers: false
 social: false
