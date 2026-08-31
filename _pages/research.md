@@ -23,7 +23,7 @@ _styles: |
 
 #### Social Influence in Product Choice and Market Competition: Evidence from a Mobile Communication Network
 
-Revise and Resubmit at RAND Journal of Economics. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501911">SSRN</a></span></p>
+Revise and Resubmit at RAND Journal of Economics. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501911">SSRN</a>
 
 <details class="paper-abstract">
   <summary>
