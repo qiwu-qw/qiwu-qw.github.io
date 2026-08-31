@@ -21,6 +21,23 @@ _styles: |
 
 <h2 class="research-section-title">Working Papers</h2>
 
+#### Social Influence in Product Choice and Market Competition: Evidence from a Mobile Communication Network
+
+Revise and Resubmit at RAND Journal of Economics. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501911">SSRN</a></span></p>
+
+<details class="paper-abstract">
+  <summary>
+    <span class="abstract-preview"><strong>Abstract:</strong> Social influence drives consumption, yet its effect on firm competition and pricing is understudied. </span>
+    <span class="abstract-more">Read more</span>
+    <span class="abstract-less">Read less</span>
+  </summary>
+  <div class="abstract-body">
+    <p class="abstract-label"><strong>Abstract:</strong></p>
+    <p>Social influence drives consumption, yet its effect on firm competition and pricing is understudied. Using large-scale de-identified mobile call records from a Chinese city, I estimate social influence in smartphone choices. Among purchasers, a 10-percentage-point increase in the share of friends using a model raises choice probability by two-thirds of the mean. Larger effects for affluent friends and visible attributes suggest status seeking. I estimate a structural demand model and a two-period pricing model. Counterfactuals show it reallocates demand toward higher-quality products, lowers first-period prices by 1.5 percent, raises second-period prices by 0.14 percent, and increases profits and consumer surplus.
+    </p>
+  </div>
+</details>
+
 #### Face-to-Face Meetings, Worker Mobility and Referrals
 
 <p class="paper-meta"><span class="paper-authors">with Eleonora Patacchini</span><span class="paper-links"> · <a href="https://cepr.org/publications/dp20447">CEPR Discussion Paper</a></span></p>
